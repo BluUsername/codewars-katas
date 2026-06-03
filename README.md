@@ -2,8 +2,25 @@
 
 A collection of my Codewars solutions as I work through kata training daily.
 
+## Structure
+
+Solutions are organised by difficulty level:
+
+```
+codewars-katas/
+├── 6kyu/
+├── 7kyu/
+└── 8kyu/
+```
+
 ## Solutions
 
-| Kata | Difficulty | Language |
-|---|---|---|
-| [Narcissistic Number](https://www.codewars.com/kata/5287e858c6b5a9678200083c) | 6kyu | JavaScript |
+### 7kyu
+| Kata | Language |
+|------|----------|
+| [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | JavaScript |
+
+### 6kyu
+| Kata | Language |
+|------|----------|
+| [Narcissistic Number](https://www.codewars.com/kata/5287e858c6b5a9678200083c) | JavaScript |
