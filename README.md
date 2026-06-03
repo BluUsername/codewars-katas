@@ -15,6 +15,11 @@ codewars-katas/
 
 ## Solutions
 
+### 8kyu
+| Kata | Language |
+|------|----------|
+| [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) | JavaScript |
+
 ### 7kyu
 | Kata | Language |
 |------|----------|
