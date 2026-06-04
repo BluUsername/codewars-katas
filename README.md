@@ -24,8 +24,11 @@ codewars-katas/
 | Kata | Language |
 |------|----------|
 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | JavaScript |
+| [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | Python |
 
 ### 6kyu
 | Kata | Language |
 |------|----------|
+| [Narcissistic Number](https://www.codewars.com/kata/5287e858c6b5a9678200083c) | JavaScript |
+| [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | JavaScript |
 | [Narcissistic Number](https://www.codewars.com/kata/5287e858c6b5a9678200083c) | JavaScript |
