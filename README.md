@@ -31,4 +31,3 @@ codewars-katas/
 |------|----------|
 | [Narcissistic Number](https://www.codewars.com/kata/5287e858c6b5a9678200083c) | JavaScript |
 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | JavaScript |
-| [Narcissistic Number](https://www.codewars.com/kata/5287e858c6b5a9678200083c) | JavaScript |
