@@ -8,6 +8,7 @@ Solutions are organised by difficulty level:
 
 ```
 codewars-katas/
+├── 5kyu/
 ├── 6kyu/
 ├── 7kyu/
 └── 8kyu/
@@ -26,6 +27,11 @@ codewars-katas/
 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | JavaScript |
 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | Python |
 | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | Python |
+
+### 5kyu
+| Kata | Language |
+|------|----------|
+| [Vector class](https://www.codewars.com/kata/526dad7f8c0eb5c4eb000cff) | Python |
 
 ### 6kyu
 | Kata | Language |
