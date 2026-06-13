@@ -35,6 +35,7 @@ codewars-katas/
 | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3) | JavaScript |
 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | Python |
 | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | Python |
+| [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) | JavaScript |
 
 ### 8kyu
 | Kata | Language |
