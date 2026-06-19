@@ -36,6 +36,7 @@ codewars-katas/
 | [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e) | Python |
 | [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac) | Python |
 | [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d) | JavaScript |
+| [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) | JavaScript |
 
 ### 8kyu
 | Kata | Language |
