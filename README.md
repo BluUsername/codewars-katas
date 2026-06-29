@@ -26,6 +26,7 @@ codewars-katas/
 ### 6kyu
 | Kata | Language |
 |------|----------|
+| [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | JavaScript |
 | [Narcissistic Number](https://www.codewars.com/kata/5287e858c6b5a9678200083c) | JavaScript |
 | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | JavaScript |
 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | JavaScript |
