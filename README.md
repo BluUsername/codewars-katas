@@ -30,6 +30,7 @@ codewars-katas/
 | [Narcissistic Number](https://www.codewars.com/kata/5287e858c6b5a9678200083c) | JavaScript |
 | [Split Strings](https://www.codewars.com/kata/515de9ae9dcfc28eb6000001) | JavaScript |
 | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) | JavaScript |
+| [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) | Python |
 
 ### 7kyu
 | Kata | Language |
