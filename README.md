@@ -22,6 +22,7 @@ codewars-katas/
 | [Vector class](https://www.codewars.com/kata/526dad7f8c0eb5c4eb000cff) | Python |
 | [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) | Python |
 | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | Python |
+| [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a) | Python |
 
 ### 6kyu
 | Kata | Language |
